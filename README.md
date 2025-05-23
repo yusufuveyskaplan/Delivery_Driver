@@ -1,0 +1,1 @@
+- An example mini game project for Unity beginner course.
